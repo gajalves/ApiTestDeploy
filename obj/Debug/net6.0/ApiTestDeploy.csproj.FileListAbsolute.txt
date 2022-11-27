@@ -19,3 +19,8 @@ C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\obj\Debug\net6.0\r
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\obj\Debug\net6.0\ApiTestDeploy.pdb
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\obj\Debug\net6.0\ApiTestDeploy.genruntimeconfig.cache
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\obj\Debug\net6.0\ref\ApiTestDeploy.dll
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\out\web.config
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\out\ApiTestDeploy.deps.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\out\ApiTestDeploy.runtimeconfig.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\out\appsettings.Development.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\out\appsettings.json

@@ -1,6 +1,11 @@
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\ApiTestDeploy.exe
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\out\web.config
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\appsettings.Development.json
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\appsettings.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\out\ApiTestDeploy.deps.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\out\ApiTestDeploy.runtimeconfig.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\out\appsettings.Development.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\out\appsettings.json
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\ApiTestDeploy.dll
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\ApiTestDeploy.deps.json
 C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\out\ApiTestDeploy.runtimeconfig.json
