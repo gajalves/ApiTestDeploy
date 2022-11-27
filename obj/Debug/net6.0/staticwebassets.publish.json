@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LpC5LVhWk/v9lCEFzO3HgQ5LZBTLke7HAqAf29d/L0k=",
+  "Source": "ApiTestDeploy",
+  "BasePath": "_content/ApiTestDeploy",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

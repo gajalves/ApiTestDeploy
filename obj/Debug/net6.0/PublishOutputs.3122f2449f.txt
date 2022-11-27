@@ -1,0 +1,7 @@
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\ApiTestDeploy.exe
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\ApiTestDeploy.dll
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\ApiTestDeploy.deps.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\ApiTestDeploy.runtimeconfig.json
+C:\Users\gabriel.alves\Documents\Pessoal\Estudo\ApiTestDeploy\bin\Debug\net6.0\publish\ApiTestDeploy.pdb
