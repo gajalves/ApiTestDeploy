@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0BC6dSOro5WiNi+AhRNZd7G8VeLhQEnMMIIKzP4kZxk=",
+  "Source": "ApiTestDeploy",
+  "BasePath": "_content/ApiTestDeploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
